@@ -17,3 +17,5 @@ Aqui vemos ingles mas enfocado para videojuegos
 Diseño de Videojuegos
 Guerrero Merchant Hector 
 Aqui vemos el diseño de los juegos y hacemos 1 juego por mes
+
+ creando la versión 1.0.0 de este repositorio
