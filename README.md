@@ -1,4 +1,7 @@
 Jorge Barrera Dorantes
+Proyecto semestral desarrollo de aplicaciones interactivas
+mejia hernandez sebastian
+aqui vemos overleaf y como redactar textp
 Programacion en lenguajes interpretados
 miranda charles jonathan ulises
 aqui vemos como subir repositorios en github desde visual studio code
