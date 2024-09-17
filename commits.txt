@@ -1,0 +1,100 @@
+commit ddb0d36cb648a022a5dedabf03b767a7fe09a97a
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:40:43 2024 -0600
+
+    agregando commit.txt
+
+commit b68f8b03e6af643cf05365cfde5d6a0531d5d4e1
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:37:41 2024 -0600
+
+    v1.0.0
+
+commit 62e668f6624b8f87de8d02202400c4a734fc1f47
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:35:34 2024 -0600
+
+    subiendo commits.txt
+
+commit 17c56c98ebbb9aebcaa903206a29d66aa288f98f
+Merge: fc2ca4a 2b45d5e
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:29:22 2024 -0600
+
+    agregando materia 6
+
+commit fc2ca4a55e888434d16a47aa6d40d629bc399149
+Merge: 3518f4e 008d77a
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:28:04 2024 -0600
+
+    agregando materia 5
+
+commit 3518f4ee1a978b60d8e27e1cfad8c31dbb9c0a62
+Merge: 07cd728 9c2d744
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:27:22 2024 -0600
+
+    agregando materia 4
+
+commit 07cd72889906c124ba71e9da3d8302f163dc066b
+Merge: 35ae511 287aa5f
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:26:06 2024 -0600
+
+    agregando materia 3
+
+commit 35ae5118d9d744aa9d589b7797630e8b5045ab4e
+Merge: 03c0413 04adf85
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:24:49 2024 -0600
+
+    agregando materia 2
+
+commit 2b45d5ea1584cc6589b9ce9500407ec71a6119a7
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:20:25 2024 -0600
+
+    materia6
+
+commit 008d77af6895beff09c6b2314513c8cff995aac5
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:18:50 2024 -0600
+
+    materia5
+
+commit 9c2d744f5b323dae5e39eb9e0a58a1ae90995704
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:17:29 2024 -0600
+
+    materia4
+
+commit 287aa5f5b23ad04eda6250890a5a4c7fe74cc190
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:15:59 2024 -0600
+
+    materia3
+
+commit 04adf851bff899c419795f106397073d666c158c
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:14:41 2024 -0600
+
+    materia2
+
+commit 03c041322bcf51317b68da1b69ac17eb985fafb3
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:12:46 2024 -0600
+
+    materia1
+
+commit 17a5248c77cc20379f156cccefa55c4f97bf5e46
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:05:55 2024 -0600
+
+    primer commit
+
+commit 6974208e141802b0909ea9d612904ae0b364de8e
+Author: Jorge Barrera Dorantes <cmdx2757@amerike.edu.mx>
+Date:   Tue Sep 17 10:04:10 2024 -0600
+
+    agregando nombre
